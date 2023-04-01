@@ -1,0 +1,2 @@
+Questa è una prova di scrittura,
+apro il file, scrivo e chiudo il file
